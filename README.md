@@ -56,3 +56,5 @@
 
 # This RAP demonstrates how structured analytical workflows could support scalable human factors evidence management across rail consultancy engagements.
 
+## Pipeline Architecture
+![RAP Architecture](~/Rail Safety/Data Architecture.png)
