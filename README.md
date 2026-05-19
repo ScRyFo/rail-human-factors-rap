@@ -1,60 +1,62 @@
-# \# Rail Human Factors RAP
+# Rail Human Factors RAP
 
 # 
 
-# \## Overview
+# Overview
 
-# This project demonstrates a reproducible analytical pipeline (RAP) for operational rail safety and human factors evidence analysis.
-
-# 
-
-# \## Objectives
-
-# \- Demonstrate scalable evidence workflows
-
-# \- Support reproducible analytics
-
-# \- Standardise operational safety insight generation
-
-# \- Illustrate configurable human factors analysis
+## This project demonstrates a reproducible analytical pipeline (RAP) for operational rail safety and human factors evidence analysis.
 
 # 
 
-# \## Features
+# Objectives
 
-# \- Automated data ingestion
+## \- Demonstrate scalable evidence workflows
 
-# \- Validation checks
+## \- Support reproducible analytics
 
-# \- Configurable parameters
+## \- Standardise operational safety insight generation
 
-# \- Standardised z-score comparisons
-
-# \- Correlation analysis
-
-# \- Reproducible visualisation generation
+## \- Illustrate configurable human factors analysis
 
 # 
 
-# \## Technologies
+# Features
 
-# \- R
+## \- Automated data ingestion
 
-# \- tidyverse
+## \- Validation checks
 
-# \- janitor
+## \- Configurable parameters
 
-# \- ggplot2
+## \- Standardised z-score comparisons
 
-# \- ggtext
+## \- Correlation analysis
 
-# \- renv
+## \- Reproducible visualisation generation
 
 # 
 
-# \## Strategic Relevance
+# Technologies
 
-# This RAP demonstrates how structured analytical workflows could support scalable human factors evidence management across rail consultancy engagements.
+## \- R
 
-## Pipeline Architecture
-![RAP Architecture](~/Rail Safety/Data Architecture.png)
+## \- tidyverse
+
+## \- janitor
+
+## \- ggplot2
+
+## \- ggtext
+
+## \- renv
+
+# 
+
+# Strategic Relevance
+
+This RAP demonstrates how structured analytical workflows could support scalable human factors evidence management across rail consultancy engagements.
+
+#
+
+# Pipeline Architecture
+![RAP Architecture](docs/architecture.png)
